@@ -1,0 +1,16 @@
+### EC2 server launch  #####
+
+
+# sudo apt update
+
+## sudo apt install nodejs
+
+### git clone "url of repo"
+
+cd in folder
+
+#### sudo  npm install
+
+##### sudo apt install pm2
+
+###### sudo npx pm2 start index.js
